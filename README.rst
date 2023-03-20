@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+Template for the Read the Docs
 =======================================
 
 This GitHub template includes a template for readthedocs documentation with some basic Sphinx docs.
