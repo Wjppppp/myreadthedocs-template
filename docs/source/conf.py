@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Readthedocs Template'
+copyright = '2023, Jiapan Wang'
+author = 'Jiapan Wang'
 
 release = '0.1'
 version = '0.1.0'
